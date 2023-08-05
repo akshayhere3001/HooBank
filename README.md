@@ -1,7 +1,7 @@
 # Hoobank
 
 HooBank uses a methodology to identify the credit cards most likely to fit your needs.
-Modern UI/UX
+- Built with Modern UI/UX
 
 ## Built with:
 
